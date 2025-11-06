@@ -1,7 +1,7 @@
 ## ENSEIGNEMENT SUPERIEUR ET UNIVERSITAIRE
 ### DOMAINE: SCIENCES ECONOMIQUES ET DE GESTION
 #### MENTION: INFORMATIQUE APPLIQUE A LA GESTION DES ENTREPRISES
-
+#### <img src="uac-removebg-preview.png" alt="Logo UAC" height="100" style="vertical-align:middle;">
 #### FICHE DE CLOUD COMPUTING
 
 | Nom      | Postnom     | Prenom   |
