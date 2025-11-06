@@ -4,8 +4,13 @@
 
 #### FICHE DE CLOUD COMPUTING
 
-| Nom | Postnom | Prenom |
-| -------- | -------- | -------- |
-| Kasereka     | Kike     | 5000     |
-| Kasereka     | Mbunge    | Romain    |
+| Nom      | Postnom     | Prenom   |
+| -------- | ------------| -------- |
+| Kasereka | Kike        | 5000     |
+| Kasereka | Mbunge      | Romain   |
+| Kahindo  | Manzekele   | Gift     |
+| Katembo  | Luhavo   | Josias  |
+| KAHINDO      | KAVIRA    | Rosette   |
+| Muhindo    | vuhese   | bienvenu  |
+| Nzanzu     | Kavughe    | Serge    |
 | Kyakimwa    | kabuyaya   | charline    |
