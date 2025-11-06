@@ -23,3 +23,4 @@
 | Masika     | Mahungu    | Happy    |
 | kavira       | maghulu  | florence |
 | kavira   | kisonia  | naomie   |
+| Kambale      | vayisiriria| Grace    |
