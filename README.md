@@ -1,5 +1,5 @@
 ## ENSEIGNEMENT SUPERIEUR ET UNIVERSITAIRE
-### DOMAINE: SCIENCES ECONOMIQUES ET DE DE GESTION
+### DOMAINE: SCIENCES ECONOMIQUES ET DE GESTION
 #### MENTION: INFORMATIQUE APPLIQUE A LA GESTION DES ENTREPRISES
 
 #### FICHE DE CLOUD COMPUTING
@@ -18,3 +18,4 @@
 | Kambale  | Kateghe  | Elie     |
 | Nzanzu   | Kitero   | Nostalgie |
 | kavira     | musienene    | elvis   |
+| Kasoki   | Kyamundu | Germaine |
